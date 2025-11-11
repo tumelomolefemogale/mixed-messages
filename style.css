@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+#funny-image {
+    text-align: center;
+}
+
 #sentence {
     color: rgb(50, 45, 45);
     font-family: sans-serif;
