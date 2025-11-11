@@ -11,7 +11,7 @@ function displayImage() {
         funnyImage.classList.add('show')
     }, 3)
 
-    sentence.innerHTML = 'WARNING: Smiling gorilla may cause spontaneous envy.'
+    sentence.innerHTML = '"Oh, you thought there was money? The gorilla laughed at your life choices too." - Tumelo Molefe Mogale'
     theButton.style.display = 'none'
 
     surveyLabels.forEach(label => label.style.display = 'none');
