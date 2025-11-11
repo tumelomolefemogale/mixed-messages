@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+
+#sentence {
+    color: brown;
+}
+
+#sentence-button:hover {
+    background-color: antiquewhite;
+}
