@@ -6,6 +6,12 @@ body {
 #funny-image {
     display: block;
     margin: 0 auto;
+    opacity: 0;
+    transition: opacity 3s ease;
+}
+
+#funny-image.show {
+    opacity: 1;
 }
 
 #sentence {
