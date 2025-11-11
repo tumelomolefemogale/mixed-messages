@@ -1,10 +1,10 @@
 body {
-    background-color: beige;
+    background-color: rgb(55, 255, 0);
     text-align: center;
 }
 
 #sentence {
-    color: brown;
+    color: rgb(255, 0, 0);
 }
 
 #sentence-button:hover {
